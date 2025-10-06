@@ -18,3 +18,10 @@ This repository contains my solutions to every exercise and project from the boo
 
 The repository is organized by chapters and projects:
 
+Python-Crash-Course/
+├── Chapter1-Basics/
+│ └── Chapter1_Basics.ipynb # All exercises from Chapter 1
+├── Chapter2-Data-Structures/
+│ └── Chapter2_DataStructures.ipynb
+
+Note: Each notebook contains all exercises from the respective chapter with code and explanations.
