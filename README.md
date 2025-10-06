@@ -20,8 +20,12 @@ The repository is organized by chapters and projects:
 
 Python-Crash-Course/
 ├── Chapter1-Basics/
-│ └── Chapter1_Basics.ipynb # All exercises from Chapter 1
+│   └── Chapter1_Basics.ipynb
 ├── Chapter2-Data-Structures/
-│ └── Chapter2_DataStructures.ipynb
+│   └── Chapter2_DataStructures.ipynb
+├── Chapter3-Functions/
+│   └── Chapter3_Functions.ipynb
+└── README.md
+
 
 Note: Each notebook contains all exercises from the respective chapter with code and explanations.
