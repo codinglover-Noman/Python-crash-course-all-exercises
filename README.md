@@ -26,4 +26,6 @@ Chapter2_DataStructures.ipynb
 Chapter3-Functions/
 Chapter3_Functions.ipynb
 README.md
+
+
 Note: Each notebook contains all exercises from the respective chapter with code and explanations.
